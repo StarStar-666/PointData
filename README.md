@@ -1,6 +1,6 @@
 # 如果要运行官方icp交互式ICP点云配准(Interactive Iterative Closest Point)，请使用库中已经重建好的点云数据
 
-## Interactive Iterative Closest Point博客：https://blog.csdn.net/qq_40214464/article/details/121362225
+## Interactive Iterative Closest Point博客讲解：https://blog.csdn.net/qq_40214464/article/details/121362225
 
 ## 一、兔子
 ![image](https://user-images.githubusercontent.com/74656691/141972498-c166f034-f8da-4641-8627-e7fbb87bdedb.png)
